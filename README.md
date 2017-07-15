@@ -6,7 +6,6 @@
 - [Xampp](https://www.apachefriends.org/index.html)
 - [NetBeans IDE](https://netbeans.org/)
 - [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html)
-```sh
 
 
 ## Tài liệu tham khảo online
