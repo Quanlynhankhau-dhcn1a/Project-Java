@@ -7,6 +7,55 @@
 - [NetBeans IDE](https://netbeans.org/)
 - [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html)
 
+## Cách upload từ ubuntu lên Github
+
+**Cài đặt Git trên ubuntu**
+```sh
+$ Sudo apt-get install git
+```
+
+**Nhập Username và Email khi yêu cầu:**
+```sh
+$ Git config --global user.name "Username"
+$ git config --global user.email "EmailUser"
+```
+
+**Clone kho dự án về Ubuntu:**
+```sh
+$ Git clone https://github.com/Quanlynhankhau-dhcn1a/QLNK-DHCN1A
+# Sau khi thực hiện lệnh trên sẽ xuất hiện 1 thư mục có tên QLNK-DHCN1A trong home
+# Tiến hành copy cái file thành viên thực hiện vào cây thư mục ./build/classes/gui
+```
+
+**Tiến hành upload:**
+```sh
+# Mở thư mục:
+$ cd ~/QLNK-DHCN1A
+
+# Tạo branch riêng để phát triển:
+$ Git checkout -b Tên ( Tên theo tên thành viên )
+
+# Tạo remote:
+$ Git remote add origin master https://github.com/Quanlynhankhau-dhcn1a/QLNK-DHCN1A
+
+# Check remote:
+$ Git remote -v
+# Nếu có 2 dòng Fetch và Push thì tiếp tục bước tiếp theo
+
+# Thêm và Kiểm tra tệp:
+$ Git add . ( Lưu ý phải có dấu chấm )
+$ git status
+# Check kỹ các file cần upload.
+
+# Thêm Commits:
+$ Git commit -m "tin nhắn " ( Phần tin nhắn là Decription của file khi upload lên Github )
+
+# Gộp file vào nhánh Source chính:
+$ Git checkout master && git merge Tên ( Lưu ý tên đã đặt ở phần  tạo branch )
+
+# Upload file lên Github:
+$ Git push origin master hoặc $ Git push -f origin master
+```
 
 ## Tài liệu tham khảo online
 - [NetBeans IDE Java Quick Start Tutorial](https://netbeans.org/kb/docs/java/quickstart.html) Khởi đầu với NetBeans IDE.
@@ -19,6 +68,7 @@ Nhóm phân công thực hiện từng phần khác nhau:
 - Trần Lục Long Tính thực hiện kết nối toàn bộ [Chương trình chính](https://github.com/Quanlynhankhau-dhcn1a/QLNK-DHCN1A), [Form main](https://github.com/Quanlynhankhau-dhcn1a/QLNK-DHCN1A/tree/master/build/classes/gui) và [Form đăng nhập](https://github.com/Quanlynhankhau-dhcn1a/QLNK-DHCN1A/tree/master/build/classes/gui).
 - Huỳnh Vân Nhật thực hiện các [Form quản lý](https://github.com/Quanlynhankhau-dhcn1a/QLNK-DHCN1A/tree/master/build/classes/gui) và [Quản lý cán bộ](https://github.com/Quanlynhankhau-dhcn1a/QLNK-DHCN1A/tree/master/build/classes/gui).
 - Hoàng Công Kiên thực hiện các [Form thay đổi](https://github.com/Quanlynhankhau-dhcn1a/QLNK-DHCN1A/tree/master/build/classes/gui), [Form thống kê dân số](https://github.com/Quanlynhankhau-dhcn1a/QLNK-DHCN1A/tree/master/build/classes/gui) và [Form thống kê thời gian](https://github.com/Quanlynhankhau-dhcn1a/QLNK-DHCN1A/tree/master/build/classes/gui).
+- Lê Hùng Phú thực hiệc các [Form tạm trú](https://github.com/Quanlynhankhau-dhcn1a/QLNK-DHCN1A/tree/master/build/classes/gui) và [Form tạm vắng](https://github.com/Quanlynhankhau-dhcn1a/QLNK-DHCN1A/tree/master/build/classes/gui).
 
 Do trong quá trình upload các file cuối cùng có xảy ra lỗi nên đã ghi đè toàn bộ dữ liệu từ trước, nhóm phải thực hiện upload lại từng phần nên không còn số lượng commits.
 ## Video Demo
