@@ -17,8 +17,8 @@
 ## Phân chia thực hiện
 Nhóm phân công thực hiện từng phần khác nhau:
 - Trần Lục Long Tính thực hiện kết nối toàn bộ [Chương trình chính](https://github.com/Quanlynhankhau-dhcn1a/QLNK-DHCN1A), [Form main](https://github.com/Quanlynhankhau-dhcn1a/QLNK-DHCN1A/tree/master/build/classes/gui) và [Form đăng nhập](https://github.com/Quanlynhankhau-dhcn1a/QLNK-DHCN1A/tree/master/build/classes/gui).
-- Huỳnh Vân Nhật thực hiện các [Form quản lý](https://github.com/balderdashy/sails-docs#contributing-to-the-docs) và [Quản lý cán bộ](https://github.com/Quanlynhankhau-dhcn1a/QLNK-DHCN1A/tree/master/build/classes/gui).
-- Hoàng Công Kiên thực hiện các [Form thay đổi](https://github.com/balderdashy/sails-docs/issues/580), [Form thống kê dân số](https://github.com/Quanlynhankhau-dhcn1a/QLNK-DHCN1A/tree/master/build/classes/gui) và [Form thống kê thời gian](https://github.com/Quanlynhankhau-dhcn1a/QLNK-DHCN1A/tree/master/build/classes/gui).
+- Huỳnh Vân Nhật thực hiện các [Form quản lý](https://github.com/Quanlynhankhau-dhcn1a/QLNK-DHCN1A/tree/master/build/classes/gui) và [Quản lý cán bộ](https://github.com/Quanlynhankhau-dhcn1a/QLNK-DHCN1A/tree/master/build/classes/gui).
+- Hoàng Công Kiên thực hiện các [Form thay đổi](https://github.com/Quanlynhankhau-dhcn1a/QLNK-DHCN1A/tree/master/build/classes/gui), [Form thống kê dân số](https://github.com/Quanlynhankhau-dhcn1a/QLNK-DHCN1A/tree/master/build/classes/gui) và [Form thống kê thời gian](https://github.com/Quanlynhankhau-dhcn1a/QLNK-DHCN1A/tree/master/build/classes/gui).
 
 Do trong quá trình upload các file cuối cùng có xảy ra lỗi nên đã ghi đè toàn bộ dữ liệu từ trước, nhóm phải thực hiện upload lại từng phần nên không còn số lượng commits.
 ## Video Demo
