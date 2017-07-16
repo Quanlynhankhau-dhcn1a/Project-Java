@@ -1,6 +1,6 @@
-﻿<h1>
-<a href="https://github.com/Quanlynhankhau-dhcn1a/QLNK-DHCN1A"><img alt="" src="https://www.vectorlogo.zone/logos/java/java-card.png" title="Quản lý nhân khẩu bằng Java"/></a>
-</h1>
+
+<p align="center"><a href="https://github.com/Quanlynhankhau-dhcn1a/QLNK-DHCN1A"><img alt="" src="https://www.vectorlogo.zone/logos/java/java-card.png" title="Quản lý nhân khẩu bằng Java"/></a></p>
+
 
 ## Các phần mềm cần thiết &nbsp;
 - [Xampp](https://www.apachefriends.org/index.html)
@@ -75,7 +75,7 @@ Do trong quá trình upload các file cuối cùng có xảy ra lỗi nên đã 
 ## Video Demo
 [![DeMo](https://scontent.fsgn2-2.fna.fbcdn.net/v/t35.0-12/20182501_1776692762347715_146635551_o.png?oh=c2f8e6d04c88be4839eaeb3d73f0fc44&oe=596DAC9A)](https://www.youtube.com/watch?v=EiGLOiibU3U)
 ## Tài Liệu Thiết Kế 
-[Tài Liệu Cho Thiết Kế](https://github.com/Quanlynhankhau-dhcn1a/QLNK-DHCN1A/blob/master/TaiLieuThietKe.md)
+-[Tài Liệu Cho Thiết Kế](https://github.com/Quanlynhankhau-dhcn1a/QLNK-DHCN1A/blob/master/TaiLieuThietKe.md)
 ## Nhóm
 Danh sách nhóm sinh viên thực hiện:
 
@@ -84,7 +84,8 @@ Danh sách nhóm sinh viên thực hiện:
 [Trần Lục Long Tính](https://github.com/tinhdk1) | [Hoàng Công Kiên](https://github.com/deepink2) | [Huỳnh Vân Nhật](https://github.com/huynhvannhat) | [Lê Hùng Phú](https://github.com/lehungphu)
 
 ## Kênh Truyền Thông 
-Facebook: [Quản Lý Nhân Khẩu](https://www.facebook.com/quanlynhankhau/)
+-Facebook: [Quản Lý Nhân Khẩu](https://www.facebook.com/quanlynhankhau/)
+-WebSite: [Quản Lý Nhân Khẩu](https://quanlynhankhau-dhcn1a.github.io/QLNK-DHCN1A/)
 ## Giấy phép
 
 [MIT License](https://vi.wikipedia.org/wiki/Gi%E1%BA%A5y_ph%C3%A9p_MIT)  Copyright © 2012-2017 Mike McNeil, Balderdash Design Co., & The Sails Company
