@@ -6,6 +6,7 @@
 - [Xampp](https://www.apachefriends.org/index.html)
 - [NetBeans IDE](https://netbeans.org/)
 - [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html)
+- [Giới thiệu về Ubuntu](https://github.com/Quanlynhankhau-dhcn1a/QLNK-DHCN1A/blob/master/Gioi%20thieu%20ubuntu.md)
 
 ## Cách upload từ ubuntu lên Github
 
