@@ -21,7 +21,8 @@ Nhóm phân công thực hiện từng phần khác nhau:
 - Hoàng Công Kiên thực hiện các [Form thay đổi](https://github.com/balderdashy/sails-docs/issues/580), [Form thống kê dân số](https://github.com/Quanlynhankhau-dhcn1a/QLNK-DHCN1A/tree/master/build/classes/gui) và [Form thống kê thời gian](https://github.com/Quanlynhankhau-dhcn1a/QLNK-DHCN1A/tree/master/build/classes/gui).
 
 Do trong quá trình upload các file cuối cùng có xảy ra lỗi nên đã ghi đè toàn bộ dữ liệu từ trước, nhóm phải thực hiện upload lại từng phần nên không còn số lượng commits.
-
+## Video Demo
+[![DeMo](http://i.imgur.com/Ii88jlhl.png)](https://www.youtube.com/watch?v=EiGLOiibU3U)
 ## Nhóm
 Danh sách nhóm sinh viên thực hiện:
 
