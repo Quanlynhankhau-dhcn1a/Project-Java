@@ -29,7 +29,8 @@ Danh sách nhóm sinh viên thực hiện:
 :---:|:---:|:---:|:---:
 [Trần Lục Long Tính](https://github.com/tinhdk1) | [Hoàng Công Kiên](https://github.com/deepink2) | [Huỳnh Vân Nhật](https://github.com/huynhvannhat) | [Lê Hùng Phú](https://github.com/lehungphu)
 
-
+## Kênh Truyền Thông 
+Facebook: [Quản Lý Nhân Khẩu](https://www.facebook.com/quanlynhankhau/)
 ## Giấy phép
 
 [MIT License](https://vi.wikipedia.org/wiki/Gi%E1%BA%A5y_ph%C3%A9p_MIT)  Copyright © 2012-2017 Mike McNeil, Balderdash Design Co., & The Sails Company
